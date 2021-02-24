@@ -1,0 +1,15 @@
+########################
+# MMXCIX LANGUAGE FILE #
+########################
+
+
+Prefix: "&fReplaceMeXD > " #Plugin base prefix
+
+#Basic responses regarding the system
+System-Response:
+   permission-denied: "&cSorry br0, not enough permissions\n&7&o- %permission"
+   console-cannot-send: "&cConsole cannot execute this command!"
+
+#Basic player responses
+Player-Response:
+   not-found: "&e%player &cwas not found!"

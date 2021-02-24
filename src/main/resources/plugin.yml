@@ -1,0 +1,6 @@
+name: Base
+version: ${project.version}
+main: project.mmxcix.Base
+prefix: MMXCIX
+authors: [Chikei]
+description: The awesome project
