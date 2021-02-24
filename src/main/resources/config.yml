@@ -1,0 +1,11 @@
+#############################
+# MMXCIX CONFIGURATION FILE #
+#############################
+
+
+#Credentials
+MySQL:
+   host: "localhost"
+   database: "project_mmxcix"
+   username: ""
+   password: ""
