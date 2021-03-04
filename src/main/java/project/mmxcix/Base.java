@@ -10,8 +10,7 @@ public final class Base extends JavaPlugin {
 
     public static Base base;
 
-    public String host; public String database;
-    public String user; public String password;
+    public String host, user, database, password;
     public static SQL mySQL;
 
     @Override
